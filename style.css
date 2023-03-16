@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 .App {
     text-align: center;
@@ -20,7 +20,7 @@ body {
     margin: 20px auto;
     width: 100%;
     font-size: 100px;
-    font-family: "Permanent Marker";
+    font-family: 'Cinzel', serif;
     animation: bloody 4s ease infinite alternate;
     -webkit-animation: bloody 4s ease infinite alternate;
     -moz-animation: bloody 4s ease infinite alternate;
@@ -49,7 +49,7 @@ body {
     color: #c8102e;
     font-size: 80px;
     margin: 0 auto;
-    font-family: "Permanent Marker";
+    font-family: 'Cinzel', serif;
     animation: grow 5s ease infinite alternate;
     -webkit-animation: grow 5s ease infinite alternate;
     -moz-animation: grow 5s ease infinite alternate;
